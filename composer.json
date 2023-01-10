@@ -1,0 +1,22 @@
+{
+    "name": "lukas/ihouseapi",
+    "description": "Uma api para o app ihousekeeper",
+    "autoload": {
+        "files": [
+            
+        ],
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Devpoa Software",
+            "email": "suporte.devpoa@gmail.com"
+        }
+    ],
+    "require": {
+        
+
+    }
+}

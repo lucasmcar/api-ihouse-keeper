@@ -1,0 +1,24 @@
+Regras de negocio para o cliente
+
+1- Cadastrar cliente nome, email e endereço
+2- Ao cadastrar cliente e endereço, cadastrar se é residencia ou trabalho
+3- Cadastrar quantidade de quartos, banheiros, salas/escritório (se for empresa)
+
+Regras de negócio para empregada
+1- Cadastrar nome, email e endereço
+2- Cadastrar se aceita trabalhar apenas em residencia, escritorios ou em ambos
+3- Cadastrar preço minimo mão de obra
+
+Regras de negócio para contratação do serviço cliente/empregada
+
+Empregada
+
+1- Tipos de transporte
+2- Produtos extras
+3- Distancia
+4- Dificuldade
+
+Cliente
+1- Procurar mais proxima
+2- Parametrização de distancia max/min
+3- Preco maximo
