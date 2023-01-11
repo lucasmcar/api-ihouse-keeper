@@ -10,6 +10,7 @@ class EmpregadaVo
     private $email;
     private $nrCelular;
     private $nrTelefone;
+    private $avalicao;
 
     public function __construct()
     {
@@ -65,4 +66,6 @@ class EmpregadaVo
     {
         return $this->nrTelefone;
     }
+
+    
 }

@@ -3,7 +3,7 @@
     "description": "Uma api para o app ihousekeeper",
     "autoload": {
         "files": [
-            
+            "app/constants.php"
         ],
         "psr-4": {
             "app\\": "app/"

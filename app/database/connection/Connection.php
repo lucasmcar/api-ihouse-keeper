@@ -3,7 +3,6 @@
 namespace app\database\connection;
 use app\util\IniReader;
 
-
 class Connection
 {
 
@@ -19,7 +18,8 @@ class Connection
             return self::$instance;
         } catch (\PDOException $ex) {
             return array(
-                'status' => '0',
+                
+                'status' => 0,
                 'cod' => $ex->getCode(),
                 'message' => $ex->getMessage()
                 

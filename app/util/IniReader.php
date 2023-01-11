@@ -6,8 +6,6 @@ namespace app\util;
 class IniReader
 {
 
-    private static $rootPath;
-
     public static function readerIni($pathFile)
     {
         
